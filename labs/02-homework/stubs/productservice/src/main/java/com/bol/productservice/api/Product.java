@@ -4,10 +4,13 @@ import java.math.BigDecimal;
 import java.math.RoundingMode;
 
 public class Product {
-    private final String ean;
+    private String ean;
     private String name;
     private BigDecimal suggestedRetailPrice, consumerPrice;
     private boolean available;
+
+    public Product() {
+    }
 
     public Product(String ean, String name, BigDecimal suggestedRetailPrice) {
         this.ean = ean;
@@ -55,5 +58,9 @@ public class Product {
 
     private BigDecimal round(BigDecimal value) {
         return value.setScale(2, RoundingMode.HALF_UP);
+    }
+
+    public void setEan(String ean) {
+        this.ean = ean;
     }
 }

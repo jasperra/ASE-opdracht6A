@@ -6,6 +6,9 @@ public class CustomerList {
 
     private List<Customer> customers;
 
+    public CustomerList() {
+    }
+
     public List<Customer> getCustomers() {
         return customers;
     }
