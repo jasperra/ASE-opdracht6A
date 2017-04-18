@@ -1,7 +1,4 @@
-package org.joyofcoding.objectcalisthenics;
-
-import org.joyofcoding.objectcalisthenics.domain.ItemValues;
-import org.joyofcoding.objectcalisthenics.domain.Name;
+package org.joyofcoding.objectcalisthenics.domain;
 
 public abstract class Item {
     private Name name;

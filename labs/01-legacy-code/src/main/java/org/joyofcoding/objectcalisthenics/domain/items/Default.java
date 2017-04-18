@@ -1,6 +1,6 @@
-package org.joyofcoding.objectcalisthenics.items;
+package org.joyofcoding.objectcalisthenics.domain.items;
 
-import org.joyofcoding.objectcalisthenics.Item;
+import org.joyofcoding.objectcalisthenics.domain.Item;
 
 /**
  * Created by Jasper on 18-Apr-17.

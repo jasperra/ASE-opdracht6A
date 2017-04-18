@@ -1,5 +1,8 @@
 package org.joyofcoding.objectcalisthenics;
 
+import org.joyofcoding.objectcalisthenics.domain.Item;
+import org.joyofcoding.objectcalisthenics.domain.ItemList;
+
 import java.util.List;
 
 public class GildedRose {

@@ -1,9 +1,9 @@
-package org.joyofcoding.objectcalisthenics;
+package org.joyofcoding.objectcalisthenics.domain;
 
-import org.joyofcoding.objectcalisthenics.items.AgedBrie;
-import org.joyofcoding.objectcalisthenics.items.Backstage;
-import org.joyofcoding.objectcalisthenics.items.Default;
-import org.joyofcoding.objectcalisthenics.items.Sulfuras;
+import org.joyofcoding.objectcalisthenics.domain.items.AgedBrie;
+import org.joyofcoding.objectcalisthenics.domain.items.Backstage;
+import org.joyofcoding.objectcalisthenics.domain.items.Default;
+import org.joyofcoding.objectcalisthenics.domain.items.Sulfuras;
 
 import java.util.ArrayList;
 import java.util.List;

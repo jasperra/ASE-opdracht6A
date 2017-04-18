@@ -2,7 +2,7 @@ package org.joyofcoding.objectcalisthenics.assertions;
 
 import org.assertj.core.api.AbstractIterableAssert;
 import org.assertj.core.api.Assertions;
-import org.joyofcoding.objectcalisthenics.Item;
+import org.joyofcoding.objectcalisthenics.domain.Item;
 
 import static org.assertj.core.api.Assertions.extractProperty;
 

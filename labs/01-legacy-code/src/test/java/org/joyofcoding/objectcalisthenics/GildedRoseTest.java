@@ -1,8 +1,9 @@
 package org.joyofcoding.objectcalisthenics;
 
 import org.joyofcoding.objectcalisthenics.assertions.ItemsAssert;
-import org.joyofcoding.objectcalisthenics.items.Backstage;
-import org.joyofcoding.objectcalisthenics.items.Sulfuras;
+import org.joyofcoding.objectcalisthenics.domain.Item;
+import org.joyofcoding.objectcalisthenics.domain.items.Backstage;
+import org.joyofcoding.objectcalisthenics.domain.items.Sulfuras;
 import org.junit.Before;
 import org.junit.Test;
 
